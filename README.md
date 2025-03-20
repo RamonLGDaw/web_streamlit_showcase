@@ -1,4 +1,4 @@
-# Página Personal de Ramon Lage
+# Página Personal en Streamlit
 
 Este proyecto es una página personal interactiva construida con Streamlit. La página está diseñada para mostrar información sobre mí, incluyendo una imagen y una breve descripción de mi experiencia o conocimientos. También incluye una sección adicional donde se destacan algunas de las aplicaciones que he creado utilizando Python.
 
